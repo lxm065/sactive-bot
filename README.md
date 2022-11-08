@@ -47,7 +47,7 @@ git clone git@github.com:shipengqi/sactive-bot.git
 
 # install dependencies
 cd sactive-bot
-yarn install
+npm install
 
 # link
 npm link
